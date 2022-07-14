@@ -1,4 +1,4 @@
-View a working version of this <a href="https://daough.netlify.app/" target="_blank">here</a>
+View a working version of this [here](https://daough.netlify.app/)
 
 # Basic Sample Hardhat Project
 
